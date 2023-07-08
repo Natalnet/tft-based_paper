@@ -33,4 +33,4 @@ If you are interested in using this code in your research, we would like to rece
 
 ## Acknowledgments
 
-* CAPES Edital 12/2020 - Telemedicinas e Análise de Dados Médicos
+* This work has been developed with partial support of Coordination for the Improvement of Higher Education Personnel (CAPES-Brazil), grants number 001 and 88881.506890/2020-01, and by National Research Council (CNPq-Brazil) grant number 311640/2018-4.
